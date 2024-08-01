@@ -68,6 +68,13 @@ The color detection approach in this project involves several key steps:
 
 4. **Final Output**: The detected color is associated with the detected object, and the bounding box along with the color label is drawn on the original image. This provides a clear visual representation of both the object and its color.
  
+
+## Relevant Research Papers
+
+1. **Colour Detection using Python and OpenCV** [see more](https://ijarsct.co.in/Paper11343.pdf)
+
+2. **Traffic Light (Circle) Detection and Recognition Using YOLO and Image Processing Technique** [see more](https://www.researchgate.net/publication/359087054_Traffic_Light_Circle_Detection_and_Recognition_Using_YOLO_and_Image_Processing_Technique)
+
 ## License
 
 This project is licensed under the MIT License.
