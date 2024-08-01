@@ -67,7 +67,21 @@ The color detection approach in this project involves several key steps:
 3. **Dominant Color Detection**: The most frequent color within the segmented region is identified as the dominant color. This is done by counting the occurrences of each color and selecting the one with the highest count.
 
 4. **Final Output**: The detected color is associated with the detected object, and the bounding box along with the color label is drawn on the original image. This provides a clear visual representation of both the object and its color.
- 
+
+## Result
+
+The images below demonstrate the color detection process using the Intelligent Object and Color Identification System. Each example follows a series of steps to identify the dominant color of an object detected in the image.
+
+    
+Example 1: Car Image 
+![exp1](https://github.com/user-attachments/assets/fb7a1526-a4f9-4de8-8c4c-acd4a7c1e275)
+
+Example 2: Person
+![exp2](https://github.com/user-attachments/assets/915d8a61-e7f0-4a99-ba8d-9cc37d963c74)
+
+Example 3: Sport Car
+![exp3](https://github.com/user-attachments/assets/4ca2359b-4d43-4615-949f-17c7dc264cde)
+
 
 ## Relevant Research Papers
 
