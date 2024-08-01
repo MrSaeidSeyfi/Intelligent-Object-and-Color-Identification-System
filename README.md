@@ -77,9 +77,6 @@ Example 1: Car Image
 ![exp1](https://github.com/user-attachments/assets/fb7a1526-a4f9-4de8-8c4c-acd4a7c1e275)
 
 Example 2: Person
-![exp2](https://github.com/user-attachments/assets/915d8a61-e7f0-4a99-ba8d-9cc37d963c74)
-
-Example 3: Sport Car
 ![exp3](https://github.com/user-attachments/assets/4ca2359b-4d43-4615-949f-17c7dc264cde)
 
 
